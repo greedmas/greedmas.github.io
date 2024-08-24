@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://greedmas.github.io/sitemap/sitemap.txt
